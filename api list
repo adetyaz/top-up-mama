@@ -1,0 +1,13 @@
+https://reqres.in/
+
+GET: api/users/ (all users)
+GET: api/users?page=2 (all users on second page)
+GET: api/users/2 (set single user)
+
+POST: api/users (CREATE USER)
+PUT: api/users/2 (UPDATE USER)
+PATCH: api/users/2 (UPDATE USER)
+DELETE: api/users/2 (DELETE USER)
+
+POST: register: api/register
+POST: login: api/login
